@@ -5,6 +5,19 @@
 - 👯 I’m looking to collaborate on FullStack software programming projects
 - 🤔 I’m looking for help with Java & Rust
 - 💬 Ask me about computer or human languages 
-- 📫 How to reach me: LinkedIn! 
 - ⚡ Fun fact: i love learning languages
 
+## 💬 About Me
+I'm Ashley, a software engineer. I know JavaScript, React, Node.js, CSS, and more - I'm adaptable and open to learning anything!
+
+Business Economist ➺ Software Engineer
+
+
+✨ Fun Facts!
+
+I've moved over a dozen times 📍 Taipei, Taiwan for 2 years.
+
+
+## 📫 Let's connect!
+
+[LinkedIn](www.linkedin.com/in/ashley-avena)
