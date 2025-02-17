@@ -15,7 +15,7 @@ Business Economist ➺ Software Engineer
 
 ✨ Fun Facts!
 
-I've moved over a dozen times 📍 Taipei, Taiwan for 2 years.
+I've moved over a dozen times 📍 
 
 
 ## 📫 Let's connect!
