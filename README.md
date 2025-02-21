@@ -1,7 +1,6 @@
 ## Hi there ✨👋✨
 
-- 🔭 I’m currently working on [TRAVELOGUE]([https://www.linkedin.com/in/ashley-avena/](https://github.com/ashleyavena/trip-journal)), a
-  full-stack PERN app that serves as a travel diary
+- 🔭 I’m currently working on [TRAVELOGUE](https://github.com/ashleyavena/trip-journal) a full-stack PERN app that serves as a travel diary
 - 🌱 I’m currently learning TypeScript, PERN, and diving into React Native
 - 👯 I’m looking to collaborate on full-stack software programming projects 
 - 🤔 I’m looking for help with Java & Rust
